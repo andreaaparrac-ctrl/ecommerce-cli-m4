@@ -23,15 +23,15 @@ Proyecto de e-commerce en consola (CLI) para gestión de productos y compras.
 ## Estructura del proyecto
 
 ecommerce_cli_m4/
- ├── src/ecommerce_cli_m4/
- │    ├── Producto.java
- │    ├── Catalogo.java
- │    ├── Carrito.java
- │    ├── Descuento.java
- │    ├── CantidadInvalidaException.java
- │    └── Main.java
- └── test/ecommerce_cli_m4/
-     └── CarritoTest.java
+ │---src/ecommerce_cli_m4/
+ │    │--- Producto.java
+ │    │--- Catalogo.java
+ │    │--- Carrito.java
+ │    │--- Descuento.java
+ │    │---CantidadInvalidaException.java
+ │    │---Main.java
+ │---test/ecommerce_cli_m4/
+      │--- CarritoTest.java
 
 ## Pruebas unitarias
 
